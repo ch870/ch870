@@ -10,7 +10,7 @@
     <p>𝓦𝓱𝓸 𝓮𝔁𝓪𝓬𝓽𝓵𝔂 𝓼𝓽𝓸𝓵𝓮 𝓶𝔂 𝓵𝓲𝓯𝓮!!!🥹🥹🥹</p>
 </div>
 
-<!-- About me 部分：去掉图片，内容居中 -->
+<!-- About me 部分：居中无图 -->
 <div>
 <h2 align="center"> 👾 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👾 </h2>
 <div align="center">
@@ -18,14 +18,12 @@
   <p><b>Loves:</b> Anime</p>
   <p><b>Hope:</b> World Peace!🤖</p>
 </div>
-<br><br>
 </div>
 
-<!-- Knowledge 部分：标题居中，徽章用 Flex 布局美化 -->
+<!-- Knowledge 部分：标题居中，徽章采用 Flex 布局并居中优化 -->
 <div>
 <h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; margin: 25px 0 15px 0;">
   <img src="https://img.shields.io/badge/Anime-Charlotte-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime-The%20Angel%20Next%20Door-87CEEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime-Rikka%20Takanashi-800080?style=for-the-badge" />
