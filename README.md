@@ -9,7 +9,8 @@
     <p>𝓐𝓽 𝓽𝓱𝓮 𝓶𝓸𝓶𝓮𝓷𝓽 𝓸𝓯 𝓹𝓮𝓻𝓲𝓵, 𝓘 𝓼𝓽𝓸𝓸𝓭 𝓫𝓮𝓯𝓸𝓻𝓮 𝓯𝓻𝓪𝓰𝓲𝓵𝓮 𝓱𝓾𝓶𝓪𝓷𝓲𝓽𝔂 𝓪𝓷𝓭 𝓼𝓪𝓬𝓻𝓲𝓯𝓲𝓬𝓮𝓭 𝓶𝔂𝓼𝓮𝓵𝓯 𝓽𝓸 𝓼𝓪𝓿𝓮 𝓽𝓱𝓮 𝔀𝓸𝓻𝓵𝓭.</p>
     <p>𝓦𝓱𝓸 𝓮𝔁𝓪𝓬𝓽𝓵𝔂 𝓼𝓽𝓸𝓵𝓮 𝓶𝔂 𝓵𝓲𝓯𝓮!!!🥹🥹🥹</p>
 </div>
-<!-- 以下内容保持不变，从About me开始 -->
+
+<!-- About me 部分保持不变 -->
 <div>
 <h2 align="center"> 👾 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👾 </h2>
   <div align="center">
@@ -25,14 +26,11 @@
 </li>
 <br><br>
 </div>
+
+<!-- Knowledge 部分已去掉图片，只保留徽章 -->
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
-<p>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  </div>
-</div>
 <div>
   <br>
 <p align="center">
@@ -50,7 +48,9 @@
   <img src="https://img.shields.io/badge/Anime-A%20Will%20Eternal-32CD32?style=for-the-badge" /><br><br>
   If you want to know more about me, it's all up to fate!🥤🥤🥤
 </p>
-<br>
+</div>
+
+<!-- Thanks for reading 部分保持不变 -->
 <div>
 <h2 align="center">😽 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 😽</h2>
 <div align="center">
