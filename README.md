@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/Anime-Charlotte-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime-The%20Angel%20Next%20Door-87CEEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime-Rikka%20Takanashi-800080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anime-The%20Degenerate%20Drawing%20Jianghu-FF4500?style=for-the-badge" />
+  <!-- 修改为 ANIME 不良人 (拼音 Buliang Ren) -->
+  <img src="https://img.shields.io/badge/Anime-Buliang%20Ren-FF4500?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anime-A%20Will%20Eternal-32CD32?style=for-the-badge" />
 </div>
 <div align="center">
