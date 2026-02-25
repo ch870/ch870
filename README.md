@@ -10,44 +10,32 @@
     <p>𝓦𝓱𝓸 𝓮𝔁𝓪𝓬𝓽𝓵𝔂 𝓼𝓽𝓸𝓵𝓮 𝓶𝔂 𝓵𝓲𝓯𝓮!!!🥹🥹🥹</p>
 </div>
 
-<!-- About me 部分保持不变 -->
+<!-- About me 部分：去掉图片，内容居中 -->
 <div>
 <h2 align="center"> 👾 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 👾 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> rikka</li>
-<li>
-<b>Loves:</b> Anime
-</li>
-<li>
-<b>Hope:</b> World Peace!🤖
-</li>
+<div align="center">
+  <p><b>Name:</b> rikka</p>
+  <p><b>Loves:</b> Anime</p>
+  <p><b>Hope:</b> World Peace!🤖</p>
+</div>
 <br><br>
 </div>
 
-<!-- Knowledge 部分已去掉图片，只保留徽章 -->
+<!-- Knowledge 部分：标题居中，徽章用 Flex 布局美化 -->
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
-<div>
-  <br>
-<p align="center">
-  <!-- Charlotte -->
+<h2 align="center"> ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/Anime-Charlotte-ff69b4?style=for-the-badge" />
-  <!-- The Angel Next Door -->
   <img src="https://img.shields.io/badge/Anime-The%20Angel%20Next%20Door-87CEEB?style=for-the-badge" />
-  <br>
-  <!-- Rikka Takanashi -->
   <img src="https://img.shields.io/badge/Anime-Rikka%20Takanashi-800080?style=for-the-badge" />
-  <!-- The Degenerate Drawing Jianghu -->
   <img src="https://img.shields.io/badge/Anime-The%20Degenerate%20Drawing%20Jianghu-FF4500?style=for-the-badge" />
-  <br>
-  <!-- A Will Eternal -->
-  <img src="https://img.shields.io/badge/Anime-A%20Will%20Eternal-32CD32?style=for-the-badge" /><br><br>
+  <img src="https://img.shields.io/badge/Anime-A%20Will%20Eternal-32CD32?style=for-the-badge" />
+</div>
+<div align="center">
   If you want to know more about me, it's all up to fate!🥤🥤🥤
-</p>
+</div>
+<br>
 </div>
 
 <!-- Thanks for reading 部分保持不变 -->
@@ -57,7 +45,6 @@
 <img src="https://static.zerochan.net/Tomori.Nao.full.1927236.jpg" width="300" alt="友利奈绪">
 </div>
 <hr>
-</div>
 </div>
     </center>
 </body>
